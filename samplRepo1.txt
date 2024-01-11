@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 this is samplRepo1 writen in remote repository
+=======
+this is sampleRepo1 writen in notepad.
+>>>>>>> Stashed changes
