@@ -1,0 +1,1 @@
+this is samplRepo1 writen in remote repository
